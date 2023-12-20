@@ -1,1 +1,1 @@
-Learning git commands and GitHub. very profession
+Learning Git commands and GitHub navigation. very professional
